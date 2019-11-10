@@ -1,0 +1,7 @@
+Entity,Buy_Sell,AgreedFx,Currency,InstructionDate,SettlementDate,Units,Price_per_units
+foo,B,0.5,SGP,01 Jan 2016,02 Jan 2016,200,100.25
+bar,S,0.22,AED,05 Jan 2016,07 Jan 2016,450,150.5
+foo1,B,0.28,AED,05 Jan 2016,07 Jan 2016,550,170.5
+foo2,B,0.4,SAR,05 Jan 2016,07 Jan 2016,650,250
+bar2,S,0.22,AED,05 Jan 2016,07 Jan 2016,350,300
+bar3,S,0.22,SGP,05 Jan 2016,07 Jan 2016,450,200
